@@ -1,6 +1,4 @@
-# Research group website
 
-Static, responsive English website inspired by the structure and navigation structure of https://balalaie.ir/. Original layout implementation and vector artwork; no professor photos or biographical content copied.
 
 ## Preview
 
